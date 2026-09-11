@@ -11,7 +11,7 @@ The notes are provided in standard PDF format for native browser rendering. This
 ### 1. Advanced Trees
 
 - [x] AVL Trees (Insertion, Rotations, Deletion)
-- [ ] Red-Black Trees
+- [x] Red-Black Trees (Insertion, Rotations, Deletion)
 
 ### 2. Recursion & Algorithm Analysis
 
