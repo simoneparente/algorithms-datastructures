@@ -15,7 +15,7 @@ The notes are provided in standard PDF format for native browser rendering. This
 
 ### 2. Recursion & Algorithm Analysis
 
-- [ ] Recursion to Iteration translation (Execution memory, Tail recursion)
+- [x] Recursion to Iteration translation (Execution memory, Tail recursion)
 - [ ] Asymptotic Notation ($\Theta$, $O$, $\Omega$) and properties
 - [ ] Divide and Conquer & Recursion Trees
 
