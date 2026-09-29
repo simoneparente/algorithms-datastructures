@@ -22,7 +22,7 @@ The notes are provided in standard PDF format for native browser rendering. This
 ### 3. Graph Theory
 
 - [x] Introduction & Graph Representations (Adjacency Lists & Matrices)
-- [ ] Breadth-First Search (BFS) & Depth-First Search (DFS)
+- [x] Breadth-First Search (BFS) & Depth-First Search (DFS)
 - [ ] Topological Sorting & Strongly Connected Components
 - [ ] Shortest Paths (Bellman-Ford, Dijkstra)
 
