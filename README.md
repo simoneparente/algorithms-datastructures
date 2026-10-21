@@ -24,7 +24,7 @@ The notes are provided in standard PDF format for native browser rendering. This
 - [x] Introduction & Graph Representations (Adjacency Lists & Matrices)
 - [x] Breadth-First Search (BFS) & Depth-First Search (DFS)
 - [x] Topological Sorting & Strongly Connected Components
-- [ ] Shortest Paths (Bellman-Ford, Dijkstra)
+- [x] Shortest Paths (Bellman-Ford, Dijkstra)
 
 ### 4. Sorting Algorithms
 
