@@ -28,7 +28,7 @@ The notes are provided in standard PDF format for native browser rendering. This
 
 ### 4. Sorting Algorithms
 
-- [ ] Insertion Sort & Selection Sort
+- [x] Insertion Sort & Selection Sort
 - [ ] Merge Sort
 - [ ] Heap Sort (Heapify, Build-Heap)
 - [ ] Quick Sort
