@@ -30,7 +30,7 @@ The notes are provided in standard PDF format for native browser rendering. This
 
 - [x] Insertion Sort & Selection Sort
 - [x] Merge Sort
-- [ ] Heap Sort (Heapify, Build-Heap)
+- [x] Heap Sort (Heapify, Build-Heap)
 - [ ] Quick Sort
 - [ ] Decision Trees and Sorting Lower Bounds
 
